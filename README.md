@@ -1,9 +1,9 @@
-# COMPILER_GROUP_ONE
+# COMPILER_GROUP_8
 
-## Mini Compiler for a C-Like Programming Language
+## Compiler Construction Project
 
-**Course:** Compiler Construction  
-**Project Type:** University Group Term Project  
+**Course:** Introduction to Compiler   
+**Project Type:** Group Project  
 **Implementation Language:** Python  
 **Repository:** COMPILER_GROUP_ONE
 
