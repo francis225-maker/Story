@@ -7,9 +7,10 @@
 **Implementation Language:** Python  
 **Repository:** Group-8
 
+
 ## 1. Project Overview
 
-COMPILER_GROUP_ONE is a university group project focused on designing and implementing a mini compiler for a small C-like programming language using Python.
+COMPILER_GROUP_ is a university group project focused on designing and implementing a mini compiler for a small C-like programming language using Python.
 
 A compiler is a program that translates source code written in a programming language into another representation that can be processed or executed by a computer. A compiler typically performs several stages of processing, including lexical analysis, syntax analysis, semantic analysis, code generation, and optimization.
 
