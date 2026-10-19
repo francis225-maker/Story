@@ -5,9 +5,7 @@
 **Course:** Introduction to Compiler   
 **Project Type:** Group Project  
 **Implementation Language:** Python  
-**Repository:** COMPILER_GROUP_ONE
-
----
+**Repository:** Group-8
 
 ## 1. Project Overview
 
