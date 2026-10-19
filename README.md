@@ -356,50 +356,47 @@ Open a pull request on GitHub and follow the group's agreed review and merge pro
 
 ### Incremental Commit Requirement
 
-The group must maintain a visible, incremental commit history. The first working feature for each phase must be committed by the applicable deadline, with further improvements committed throughout development.
+The group will maintain a visible, incremental commit history. The first working feature for each phase must be committed by the applicable deadline, with further improvements committed throughout development.
 
-Members should use their own GitHub accounts and make commits that accurately represent their contributions.
+Members will use their own GitHub accounts and make commits that accurately represent their contributions.
 
 ---
 
 ## 10. Team Members and Responsibilities
 
-Complete this table with the group's actual information.
 
 | # | Full Name | GitHub Username | Responsibility |
 |---|---|---|---|
-| 1 | Reubena Adra Moses | REPLACE THIS | REPLACE THIS |
-| 2 | Francis Mensah Agyei | REPLACE THIS | REPLACE THIS |
-| 3 | Regan Annor | REPLACE THIS | REPLACE THIS |
-| 4 | Effah Dominic | REPLACE THIS | REPLACE THIS |
-| 5 | Quaicoe Forester Ackon | REPLACE THIS | REPLACE THIS |
-| 6 | Maknun Zakaria | REPLACE THIS | REPLACE THIS |
-| 7 | Asamoah Richard | REPLACE THIS | REPLACE THIS |
-| 8 | Kenneth Attampugre | REPLACE THIS | REPLACE THIS |
-| 9 | Akuaku Jonathan Korblah | REPLACE THIS | REPLACE THIS |
-| 10 | Richard Essaw | REPLACE THIS | REPLACE THIS |
+| 1 | Reubena Adra Moses | rna-adramoses | Handle punctuation |
+| 2 | Francis Mensah Agyei | francis225-maker | Define token types |
+| 3 | Regan Annor | MrRegan22 | Test the scanner |
+| 4 | Effah Dominic | Effahgh | Handle numbers |
+| 5 | Quaicoe Forester Ackon | adj-faq | Coordinate and integrate  |
+| 6 | Maknun Zakaria | maknun-dev | Handle operators |
+| 7 | Asamoah Richard | Asamoah4284 | Handle comments and strings |
+| 8 | Kenneth Attampugre | Attam-Ken | Handle identifiers |
+| 9 | Akuaku Jonathan Korblah | jonathanakuaku2020-eng | HandlePositions |
+| 10 | Richard Essaw | ritchie-don | Handle lexical errors |
 
-Each member should have a clear responsibility and make meaningful contributions. Responsibilities may be adjusted by agreement as the project develops.
 
 ---
 
 ## 11. Repository Access
 
-- **Repository name:** `COMPILER_GROUP_ONE`
+- **Repository name:** `COMPILER_GROUP_EIGHT`
 - **Visibility:** Private
 - **Programming language:** Python
-- **Group members:** All members should have Write access.
-- **Instructor:** The instructor should be invited using `emmanueldery31@gmail.com`, as required by the course instructions.
+- **Instructor:** `emmanueldery31@gmail.com`
 
-Repository access should be checked in GitHub's repository settings.
+Repository access will be checked in GitHub's repository settings.
 
 ---
 
 ## 12. Project Roadmap
 
 - [x] Create the shared GitHub repository.
-- [ ] Verify access for all group members and the instructor.
-- [ ] Finalize the scanner's language rules.
+- [x] Verify access for all group members and the instructor.
+- [x] Finalize the scanner's language rules.
 - [ ] Implement and test Phase 1: Scanner.
 - [ ] Implement and test Phase 2: Parser.
 - [ ] Implement and test Phase 3: Semantic Analysis and IR.
@@ -409,13 +406,13 @@ Repository access should be checked in GitHub's repository settings.
 - [ ] Prepare the final demonstration.
 - [ ] Complete project documentation.
 
-The checklist should be updated to reflect actual progress.
+The checklist will be updated to reflect actual progress.
 
 ---
 
 ## 13. Conclusion
 
-COMPILER_GROUP_ONE is intended to provide practical experience in compiler construction, Python programming, software testing, documentation, and collaborative development.
+COMPILER_GROUP_EIGHT is intended to provide practical experience in compiler construction, Python programming, software testing, documentation, and collaborative development.
 
 By dividing the project into five phases, the group will build an understanding of how source code is tokenized, parsed, checked, transformed, generated, and optimized.
 
