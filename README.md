@@ -368,16 +368,16 @@ Complete this table with the group's actual information.
 
 | # | Full Name | GitHub Username | Responsibility |
 |---|---|---|---|
-| 1 | REPLACE THIS | REPLACE THIS | REPLACE THIS |
-| 2 | REPLACE THIS | REPLACE THIS | REPLACE THIS |
-| 3 | REPLACE THIS | REPLACE THIS | REPLACE THIS |
-| 4 | REPLACE THIS | REPLACE THIS | REPLACE THIS |
-| 5 | REPLACE THIS | REPLACE THIS | REPLACE THIS |
-| 6 | REPLACE THIS | REPLACE THIS | REPLACE THIS |
-| 7 | REPLACE THIS | REPLACE THIS | REPLACE THIS |
-| 8 | REPLACE THIS | REPLACE THIS | REPLACE THIS |
-| 9 | REPLACE THIS | REPLACE THIS | REPLACE THIS |
-| 10 | REPLACE THIS | REPLACE THIS | REPLACE THIS |
+| 1 | Reubena Adra Moses | REPLACE THIS | REPLACE THIS |
+| 2 | Francis Mensah Agyei | REPLACE THIS | REPLACE THIS |
+| 3 | Regan Annor | REPLACE THIS | REPLACE THIS |
+| 4 | Effah Dominic | REPLACE THIS | REPLACE THIS |
+| 5 | Quaicoe Forester Ackon | REPLACE THIS | REPLACE THIS |
+| 6 | Maknun Zakaria | REPLACE THIS | REPLACE THIS |
+| 7 | Asamoah Richard | REPLACE THIS | REPLACE THIS |
+| 8 | Kenneth Attampugre | REPLACE THIS | REPLACE THIS |
+| 9 | Akuaku Jonathan Korblah | REPLACE THIS | REPLACE THIS |
+| 10 | Richard Essaw | REPLACE THIS | REPLACE THIS |
 
 Each member should have a clear responsibility and make meaningful contributions. Responsibilities may be adjusted by agreement as the project develops.
 
