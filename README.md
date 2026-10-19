@@ -5,12 +5,12 @@
 **Course:** Introduction to Compiler   
 **Project Type:** Group Project  
 **Implementation Language:** Python  
-**Repository:** Group-8
+**Repository:** COMPILER_GROUP_EIGHT
 
 
 ## 1. Project Overview
 
-COMPILER_GROUP_ is a university group project focused on designing and implementing a mini compiler for a small C-like programming language using Python.
+COMPILER_GROUP_EIGHT is a Compiler group project focused on designing and implementing a mini compiler using Python.
 
 A compiler is a program that translates source code written in a programming language into another representation that can be processed or executed by a computer. A compiler typically performs several stages of processing, including lexical analysis, syntax analysis, semantic analysis, code generation, and optimization.
 
@@ -18,7 +18,7 @@ This project is divided into five phases. Each phase will be developed, tested, 
 
 The group will use Git and GitHub to collaborate, share code, review changes, track development progress, and maintain a visible history of contributions.
 
-**Current Phase:** Phase 1 — Scanner (Lexical Analyzer)
+**Current Phase:** Phase 1 — Scanner 
 
 **Project Status:** In progress
 
@@ -29,7 +29,7 @@ The group will use Git and GitHub to collaborate, share code, review changes, tr
 The objectives of this project are to:
 
 - Understand the fundamental principles of compiler construction.
-- Design a small C-like programming language with clearly defined rules.
+- Design a compiler with clearly defined rules.
 - Implement a scanner that converts source code into tokens.
 - Implement a parser that checks the grammatical structure of programs.
 - Perform semantic analysis to identify meaning-related errors.
@@ -49,11 +49,11 @@ The project will be completed in five phases.
 
 | Phase | Component | Deadline | Status |
 |---|---|---|---|
-| 1 | Scanner (Lexical Analyzer) | 25 October 2026 | In progress |
+| 1 | Scanner  | 25 October 2026 | In progress |
 | 2 | Parser | 8 November 2026 | Not started |
-| 3 | Semantic Analysis and Intermediate Representation (IR) | 22 November 2026 | Not started |
+| 3 | Semantic Analysis / IR  | 22 November 2026 | Not started |
 | 4 | Code Generation | 6 December 2026 | Not started |
-| 5 | Code Optimization and Final Demonstration | 13 December 2026 | Not started |
+| 5 | Optimizer + Final Demo  | 13 December 2026 | Not started |
 
 The status of each phase will be updated as development progresses. A phase should only be marked complete after its required functionality has been implemented, tested, and integrated.
 
@@ -63,7 +63,7 @@ The status of each phase will be updated as development progresses. A phase shou
 
 | Technology | Purpose |
 |---|---|
-| Python 3.8 or newer | Implementation of the compiler |
+| Python 3.12 or newer | Implementation of the compiler |
 | Git | Version control |
 | GitHub | Shared repository and collaboration |
 | Python standard library | Core functionality without mandatory third-party dependencies |
@@ -78,7 +78,7 @@ The group will agree on consistent coding conventions, file interfaces, and test
 The project will use a modular structure. Each compiler phase will have its own directory, and the scanner will be divided into smaller components to help organize the Phase 1 work.
 
 ```text
-COMPILER_GROUP_ONE/
+COMPILER_GROUP_EIGHT/
 ├── README.md
 ├── .gitignore
 ├── main.py
@@ -130,7 +130,7 @@ The group will agree on how the scanner modules communicate with one another bef
 
 ---
 
-## 6. Phase 1: Scanner (Lexical Analyzer)
+## 6. Phase 1: Scanner 
 
 ### 6.1 Description
 
@@ -255,7 +255,7 @@ The group will define consistent interfaces and data structures to ensure that t
 
 ### Prerequisites
 
-- Python 3.8 or newer, subject to compatibility with the implementation.
+- Python 3.12 or newer, subject to compatibility with the implementation.
 - Git installed on the development computer.
 - Access to the private GitHub repository.
 
