@@ -261,11 +261,11 @@ The group will define consistent interfaces and data structures to ensure that t
 
 ### Clone the Repository
 
-Replace the placeholder below with the actual GitHub username or organization that owns the repository.
+To download a copy of the project to your computer, run the following commands in your terminal:
 
 ```bash
-git clone https://github.com/REPLACE-THIS-USERNAME/COMPILER_GROUP_ONE.git
-cd COMPILER_GROUP_ONE
+git clone https://github.com/francis225-maker/COMPILER_GROUP_EIGHT.git
+cd COMPILER_GROUP_EIGHT
 ```
 
 ### Check the Python Version
@@ -308,6 +308,8 @@ The entire project will remain in one shared private repository.
 
 ### Step 1: Update Your Local Repository
 
+Before starting work, make sure you are on the main branch and download the latest changes from GitHub.
+
 ```bash
 git checkout main
 git pull origin main
@@ -323,15 +325,18 @@ git checkout -b feature/scanner-identifiers
 
 ### Step 3: Stage and Commit Changes
 
+After making changes to your assigned files, check which files have been modified:
+
 ```bash
 git status
-git add <file-or-files>
+git add scanner/scanner.py
+git add scanner/scanner.py scanner/tokens.py
 git commit -m "feat: recognize identifiers"
 ```
 
-Replace `<file-or-files>` with the paths of the files being committed.
-
 ### Step 4: Push Your Branch
+
+After committing your changes, upload your branch to GitHub:
 
 ```bash
 git push -u origin feature/scanner-identifiers
