@@ -4,18 +4,18 @@ A term project: a mini compiler for a small C-like language, written in **Python
 
 ## Team Members
 
-| # | Name | GitHub Username | Role / Responsibility |
-|---|------|-----------------|-----------------------|
-| 1 |      |                 |                       |
-| 2 |      |                 |                       |
-| 3 |      |                 |                       |
-| 4 |      |                 |                       |
-| 5 |      |                 |                       |
-| 6 |      |                 |                       |
-| 7 |      |                 |                       |
-| 8 |      |                 |                       |
-| 9 |      |                 |                       |
-| 10 |     |                 |                       |
+| # | Name        | GitHub Username | Role / Responsibility |
+|---|------       |-----------------|-----------------------|
+| 1 | francis     |                 |                       |
+| 2 | kofi     |                 |                       |
+| 3 |  ama    |                 |                       |
+| 4 |  dsds    |                 |                       |
+| 5 |    sd  |                 |                       |
+| 6 |   das   |                 |                       |
+| 7 |   ad   |                 |                       |
+| 8 |   da   |                 |                       |
+| 9 |  da    |                 |                       |
+| 10 | add    |                 |                       |
 
 ## Project Phases and Deadlines
 
